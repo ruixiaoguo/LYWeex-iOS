@@ -8,9 +8,9 @@
  ### 打包命令
  
  * weexpack create 项目名称(字母小写) -----创建Weex工程项目
- * weexpack platform add iOS  -----导入iOS模板
+ * weexpack platform add ios  -----导入iOS模板
  * weexpack platform add android -----导入安卓模板
- * weexpack platform remove iOS/android -----删除iOS/安卓模板
+ * weexpack platform remove ios/android -----删除iOS/安卓模板
  * weexpack platform list -----查看已安装的平台模版及版本
  * weexpack run ios/android-----打包应用并安装到设备运行 (依赖模拟器)
  * weexpack run web -------在 html5 平台运行
