@@ -91,6 +91,9 @@
         
 ### 4. 销毁实例
         [instance destroyInstance];
+        
+        
+### 具体请参考[https://weex.apache.org/zh/guide/develop/integrate-to-iOS-app.html#_1-配置依赖] (https://weex.apache.org/zh/guide/develop/integrate-to-iOS-app.html#_1-配置依赖)
 
   
   
