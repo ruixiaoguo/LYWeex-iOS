@@ -95,8 +95,12 @@
         
 ### 具体请参考[https://weex.apache.org/zh/guide/develop/integrate-to-iOS-app.html#_1-配置依赖] (https://weex.apache.org/zh/guide/develop/integrate-to-iOS-app.html#_1-配置依赖)
 
-## 创建weex项目
+## 编辑weex项目
 
-### 使用webstorm 创建vue项目即可。
+### 将weexpack create 创建的项目导入到WebStorm中进行Weex模板开发。
+
+### 1.在WebStorm里面打开2个终端,依次执行npm run build，npm run serve两条命令。
+
+### 2.然后在项目下会自动生成一个叫dist文件夹，里面的index.js文件就是我们需要放到服务器上的
   
   
