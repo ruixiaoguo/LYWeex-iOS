@@ -1,0 +1,38 @@
+dependencies: \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/bridge/platform/core_side_in_platform.cpp \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/Target\ Support\ Files/WeexSDK/WeexSDK-prefix.pch \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/bridge/platform/core_side_in_platform.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/common.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/bridge/platform_bridge.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/closure.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/include/WeexApiHeader.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/include/WeexApiValue.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/common/view_utils.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/config/core_environment.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/string_util.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/third_party/icu/icu_utf.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/log_defines.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/manager/weex_core_manager.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/thread/thread.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/thread/thread_impl_darwin.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/thread/thread_impl_posix.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/thread/thread_impl.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/message_loop/message_loop.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/message_loop/message_pump.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/time_unit.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/base/time_point.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/bridge/script_bridge.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/bridge/log_bridge.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/manager/render_manager.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/css/constants_value.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/node/render_object.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/node/factory/render_object_interface.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/layout.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/style.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/layout/flex_enum.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/node/factory/render_creator.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/node/factory/render_type.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/node/render_list.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/render/page/render_page.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/core/bridge/eagle_bridge.h \
+  /Users/guoruixiao/Desktop/LYWeexDemo/lyweexmajiademo/platforms/ios/Pods/WeexSDK/weex_core/Source/third_party/json11/json11.hpp
