@@ -95,5 +95,8 @@
         
 ### 具体请参考[https://weex.apache.org/zh/guide/develop/integrate-to-iOS-app.html#_1-配置依赖] (https://weex.apache.org/zh/guide/develop/integrate-to-iOS-app.html#_1-配置依赖)
 
+## 创建weex项目
+
+### 使用webstorm 创建vue项目即可。
   
   
