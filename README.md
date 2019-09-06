@@ -102,5 +102,7 @@
 ### 1.在WebStorm里面打开2个终端,依次执行npm run build，npm run serve两条命令。
 
 ### 2.然后在项目下会自动生成一个叫dist文件夹，里面的index.js文件就是我们需要放到服务器上的
+
+> 参考网络连接[https://www.jianshu.com/p/68c11018c505](https://www.jianshu.com/p/68c11018c505)
   
   
